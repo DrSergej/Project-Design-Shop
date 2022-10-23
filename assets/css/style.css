@@ -109,6 +109,7 @@ a:hover {
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(2, 1fr);
   gap: 25px;
+  margin-bottom: 60px;
 }
 .product-smaller-1 {
   grid-row: 1;
@@ -148,6 +149,7 @@ footer {
 
 .footer-container-left {
   grid-column: 1/5;
+  margin-bottom: 30px;
 }
 
 .footer-container-middle-left {
